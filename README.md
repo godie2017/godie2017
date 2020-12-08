@@ -1,10 +1,9 @@
-<!-- ![bg][banner]
+<img src="https://raw.githubusercontent.com/godie2017/godie2017/main/logo.png" width="250" align="right" hspace="0" />
 
-[banner]: https://raw.githubusercontent.com/godie2017/godie2017/master/fondo1.png -->
 # Hi! and welcome to my GitHub!
-# I'm **Juan Diego Zuleta** 🖖🏼
+## I'm **Juan Diego** 🖖🏼
 
-- A little bit about me.
+- ⚡⚡⚡⚡⚡⚡⚡⚡⚡.
   >🔭 I’m constantly working on myself.
   
   >🌱 I’m currently learning Reactjs, Nodejs and Material UI.
