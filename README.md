@@ -1,3 +1,4 @@
+<!-- [![bg][banner]][website] -->
 # Hi! and welcome to my GitHub!
 # I'm **Juan Diego Zuleta** 🖖🏼
 
@@ -16,9 +17,10 @@
   
   [linkedin]: https://www.linkedin.com/in/juandiegozuleta/
   [Email]: mailto:juandiegozuleta@gmail.com
+  <br>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=godie2017&&show_icons=true&title_color=ffffff&icon_color=7F0D8F&text_color=FDFEFF&bg_color=4F86CD">
+<img src="https://github-readme-stats.vercel.app/api?username=godie2017&&show_icons=true&title_color=ffffff&icon_color=7F0D8F&text_color=FDFEFF&bg_color=4F86CD&">
 
 
 
