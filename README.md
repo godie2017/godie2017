@@ -19,15 +19,15 @@
   
   <p align="left">
     <a href="mailto:juandiegozuleta@gmail.com">
-      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/social/gmail.png" alt="gmail" style="vertical-align:top; margin:6px 4px">
+      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/social/gmail.png" alt="gmail" style="vertical-align:top; margin:6px 4px" target="_blank">
     </a>
 
     <a href="https://www.linkedin.com/in/juandiegozuleta/">
-      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/social/linkedin.png" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/social/linkedin.png" alt="linkedin" style="vertical-align:top; margin:6px 4px" target="_blank">
     </a>
 
     <a href="https://twitter.com/juandiegozuleta">
-      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/social/twitter.png" alt="twetter" style="vertical-align:top; margin:6px 4px">
+      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/social/twitter.png" alt="twetter" style="vertical-align:top; margin:6px 4px" target="_blank">
     </a>
   </p>
   
