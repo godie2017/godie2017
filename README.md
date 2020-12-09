@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/godie2017/godie2017/main/logo.png" width="250" align="right" hspace="0" style="max-width: 100%; padding-left: 0px;"/>
+<img src="https://raw.githubusercontent.com/godie2017/godie2017/main/logo.png" width="250" align="right" hspace="0"/>
 
 # Hi! and welcome to my GitHub!
 ## I'm **Juan Diego** 🖖🏼
