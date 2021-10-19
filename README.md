@@ -32,7 +32,7 @@
   
   <br>
 
-<p align="center" >
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=godie2017&&show_icons=true&title_color=ffffff&icon_color=7F0D8F&text_color=FDFEFF&bg_color=7e8b30">
 </p>
 <br>
